@@ -15,4 +15,9 @@ Assignment 2: Classification
   * Support Vector Classifiers
   * Random Forests
   * Naive Bayes Classifiers
+  
+Assignment 3: Face Recognition using Eigenfaces
+* Principal Component Analysis (PCA) Implementation
+* Eigenfaces
+* Face Classification
 
